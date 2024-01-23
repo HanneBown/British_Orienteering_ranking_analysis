@@ -46,7 +46,7 @@ Another thing I noticed when looking at the graphs I had produced so far was the
 
 ## Building an interactive plot for average ranking score as a function of average age for ranked orienteers in each club
 
-To bring all my observations, as well as lot of the learning from the bootcamp, together, I used plotly to build an interactive graph, you can view the interactive plot by scrolling to the bottom of the Jupyter notebook here it in here: https://nbviewer.org/github/HanneBown/British_Orienteering_ranking_analysis/blob/main/British%20Orienteering%20rankings%20data.ipynb 
+To bring all my observations, as well as lot of the learning from the bootcamp, together, I used plotly to build an interactive graph, you can view the interactive plot by scrolling to the bottom of the Jupyter notebook in here: https://nbviewer.org/github/HanneBown/British_Orienteering_ranking_analysis/blob/main/British%20Orienteering%20rankings%20data.ipynb 
 I have also included a static version of the graph below but I do encourage you to have a play with the interactive features in the original plot! The graph displays the mean average ranking score as a function of mean age, grouped by club. A general trend of clubs with younger runners having higher average ranking score is apparent. Upon hovering over some of the datapoints at both extremities of ages, it can be seen that some of the clubs have fewer than ten ranked runners. This is something that may make the clubs look 'better' or 'worse' depending on the ability of the runners within the club, as the membership is not typical of the rest of the orienteering demographic.
 
 ![newplot(1)](https://github.com/HanneBown/British_orienteering_ranking_data_analysis/assets/153863652/b60e7dfc-affb-4f53-9657-70f1dca5028b)
